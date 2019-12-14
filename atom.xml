@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://1997wzg.github.io</id>
     <title>Gridea</title>
-    <updated>2019-12-14T13:37:07.399Z</updated>
+    <updated>2019-12-14T13:43:03.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://1997wzg.github.io"/>
     <link rel="self" href="https://1997wzg.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://1997wzg.github.io/images/avatar.png</logo>
     <icon>https://1997wzg.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[我的转折点]]></title>
+        <id>https://1997wzg.github.io/post/wo-de-zhuan-zhe-dian</id>
+        <link href="https://1997wzg.github.io/post/wo-de-zhuan-zhe-dian">
+        </link>
+        <updated>2019-12-14T13:37:40.000Z</updated>
+        <content type="html"><![CDATA[<p>2019年12月14日，经过前一段时间的思考，我确定的自己的人生就业的方向，前端在大二的时候接触过，学习了一些简单的HTML，第一次认真的记录事情，留下痕迹，加油！！！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://1997wzg.github.io/post/hello-gridea</id>
